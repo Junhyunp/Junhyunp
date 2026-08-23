@@ -42,4 +42,4 @@ LLM·VLM 의 기본 개념부터 최신 논문과 도구까지, **1차 출처로
 
 ---
 
-📮 plan@zerochord.ai
+📮 junhyunp@zerochord.ai
