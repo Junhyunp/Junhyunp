@@ -12,10 +12,10 @@ LLM·VLM 의 기본 개념부터 최신 논문과 도구까지, **1차 출처로
 <!-- POSTS:START -->
 **개념** — 처음 배우는 사람이 따라올 수 있게
 
+- [Few-shot 프롬프팅 — 예시 개수보다 순서가 흔듭니다](https://junhyunp.github.io/posts/few-shot-prompting/)
 - [프롬프트 기본기 다섯 가지 — 무엇이 근거가 있고 무엇이 민담인가](https://junhyunp.github.io/posts/prompt-basics-5/)
 - [Temperature와 Top-p — 답변이 매번 달라지는 이유](https://junhyunp.github.io/posts/temperature-top-p/)
 - [파인튜닝 vs RAG vs 프롬프트 — 무엇을 언제 쓰나](https://junhyunp.github.io/posts/finetune-vs-rag/)
-- [RAG 기초 — 내 문서를 LLM에 물어보게 만들기](https://junhyunp.github.io/posts/rag-basics/)
 
 **논문** — 읽고 직접 확인한 것만
 
