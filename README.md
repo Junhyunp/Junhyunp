@@ -12,10 +12,10 @@ LLM·VLM 의 기본 개념부터 최신 논문과 도구까지, **1차 출처로
 <!-- POSTS:START -->
 **개념** — 처음 배우는 사람이 따라올 수 있게
 
+- [생각의 사슬(CoT) — 효과는 크고, 설명은 믿으면 안 됩니다](https://junhyunp.github.io/posts/chain-of-thought/)
 - [Few-shot 프롬프팅 — 예시 개수보다 순서가 흔듭니다](https://junhyunp.github.io/posts/few-shot-prompting/)
 - [프롬프트 기본기 다섯 가지 — 무엇이 근거가 있고 무엇이 민담인가](https://junhyunp.github.io/posts/prompt-basics-5/)
 - [Temperature와 Top-p — 답변이 매번 달라지는 이유](https://junhyunp.github.io/posts/temperature-top-p/)
-- [파인튜닝 vs RAG vs 프롬프트 — 무엇을 언제 쓰나](https://junhyunp.github.io/posts/finetune-vs-rag/)
 
 **논문** — 읽고 직접 확인한 것만
 
@@ -26,8 +26,8 @@ LLM·VLM 의 기본 개념부터 최신 논문과 도구까지, **1차 출처로
 **소식** — 1차 출처로 다시 확인해서
 
 - [책을 파쇄해 AI를 학습시키는 일 — 법원은 이미 판단했습니다](https://junhyunp.github.io/posts/ai-training-data-books/)
-- [27B가 1.7T를 1점 차로 따라붙었습니다 — Qwen 3.8 27B](https://junhyunp.github.io/posts/qwen-38-27b/)
 - [하루에 겹친 세 가지 — 오픈 웨이트, 속도, 그리고 프라이버시](https://junhyunp.github.io/posts/model-roundup-2026-08/)
+- [27B가 1.7T를 1점 차로 따라붙었습니다 — Qwen 3.8 27B](https://junhyunp.github.io/posts/qwen-38-27b/)
 
 **도구**
 
