@@ -29,12 +29,12 @@ LLM·VLM 의 기본 개념부터 최신 논문과 도구까지, **1차 출처로
 
 **논문** — 읽고 직접 확인한 것만
 
+- [합의는 늘고 아는 건 줄었습니다 — 멀티에이전트 토론의 착시](https://junhyunp.github.io/posts/deliberative-illusion/)
 - [스킬이 실제로 보탠 몫 재기 — 그리고 제가 어제 쓴 글의 한계](https://junhyunp.github.io/posts/skill-lift/)
 - [3주 전 레포로 리뷰한 도구의 논문이 나왔습니다 — Prime Agent](https://junhyunp.github.io/posts/prime-agent-paper/)
 - [심판을 1년 굴리면 — Netflix가 LLM 채점자를 운영한 방식](https://junhyunp.github.io/posts/judge-lifecycle/)
 - [부르지 않아도 퍼집니다 — 에이전트가 스스로 옮기는 악성 스킬](https://junhyunp.github.io/posts/evomal/)
 - [SwarmWorld — '지워도 기술이 돌아갔다'는 발견이 아니라 채점 방법입니다](https://junhyunp.github.io/posts/swarmworld/)
-- [EvoHarness-RL — 8B가 Opus를 따라잡았다는 표, 직접 열어봤습니다](https://junhyunp.github.io/posts/evoharness-rl/)
 
 **소식** — 1차 출처로 다시 확인해서
 
