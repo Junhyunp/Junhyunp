@@ -20,8 +20,8 @@ LLM·VLM 의 기본 개념부터 최신 논문과 도구까지, **1차 출처로
 
 **개념** — 처음 배우는 사람이 따라올 수 있게
 
-- [스케일링 법칙은 왜 갈렸나 — 파라미터를 어떻게 세느냐로 답이 바뀝니다](https://junhyunp.github.io/posts/scaling-laws-fragility/)
 - [스케일링 법칙 — 크게 만들면 좋아진다는 말의 실제 뜻](https://junhyunp.github.io/posts/scaling-laws/)
+- [스케일링 법칙은 왜 갈렸나 — 파라미터를 어떻게 세느냐로 답이 바뀝니다](https://junhyunp.github.io/posts/scaling-laws-fragility/)
 - [거부는 방향 하나에 얹혀 있습니다 — 안전 정렬이 지워지는 원리](https://junhyunp.github.io/posts/refusal-direction/)
 - [AI 엔지니어링 역량 지도 — 내 글 23편을 대봤더니 두 칸이 비었습니다](https://junhyunp.github.io/posts/ai-engineering-skills-map/)
 - [생각의 사슬(CoT) — 효과는 크고, 설명은 믿으면 안 됩니다](https://junhyunp.github.io/posts/chain-of-thought/)
@@ -38,16 +38,16 @@ LLM·VLM 의 기본 개념부터 최신 논문과 도구까지, **1차 출처로
 
 **소식** — 1차 출처로 다시 확인해서
 
+- [에이전트 1,200개가 서로를 찾았습니다 — 그리고 채점자를 공격했습니다](https://junhyunp.github.io/posts/hf-agent-incident/)
 - [책을 파쇄해 AI를 학습시키는 일 — 법원은 이미 판단했습니다](https://junhyunp.github.io/posts/ai-training-data-books/)
 - [하루에 겹친 세 가지 — 오픈 웨이트, 속도, 그리고 프라이버시](https://junhyunp.github.io/posts/model-roundup-2026-08/)
 - [27B가 1.7T를 1점 차로 따라붙었습니다 — Qwen 3.8 27B](https://junhyunp.github.io/posts/qwen-38-27b/)
-- [Gemini 3.7 Flash — 23일 만의 교체, 무엇이 달라졌나](https://junhyunp.github.io/posts/gemini-37-flash/)
 
 **도구**
 
+- [모델은 옳게 판단했는데 뚫렸습니다 — 코딩 에이전트와 파이썬 import](https://junhyunp.github.io/posts/auto-mode-injection/)
 - [321바이트짜리 스킬 하나 — 무엇이 없는지가 핵심입니다](https://junhyunp.github.io/posts/eli5-skill/)
 - [Anthropic이 공개한 스킬 아홉 분류 — 내 세트에 대봤습니다](https://junhyunp.github.io/posts/claude-code-skills/)
-- [Prime Agent 뜯어보기 — 도구가 하나뿐인 코딩 에이전트](https://junhyunp.github.io/posts/prime-agent/)
 
 전체 목록은 [블로그](https://junhyunp.github.io/archives/)에 있습니다.
 <!-- POSTS:END -->
