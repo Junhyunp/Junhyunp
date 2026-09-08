@@ -38,10 +38,10 @@ LLM·VLM 의 기본 개념부터 최신 논문과 도구까지, **1차 출처로
 
 **소식** — 1차 출처로 다시 확인해서
 
+- [99.9%는 모델의 점수가 아닙니다 — 같은 모델이 62.7%이기도 합니다](https://junhyunp.github.io/posts/astra-harness/)
 - [소송 사흘 뒤 프롬프트가 바뀌었습니다 — 직접 대조해 봤습니다](https://junhyunp.github.io/posts/system-prompt-copyright/)
 - [에이전트 1,200개가 서로를 찾았습니다 — 그리고 채점자를 공격했습니다](https://junhyunp.github.io/posts/hf-agent-incident/)
 - [책을 파쇄해 AI를 학습시키는 일 — 법원은 이미 판단했습니다](https://junhyunp.github.io/posts/ai-training-data-books/)
-- [하루에 겹친 세 가지 — 오픈 웨이트, 속도, 그리고 프라이버시](https://junhyunp.github.io/posts/model-roundup-2026-08/)
 
 **도구**
 
